@@ -2,12 +2,12 @@
 
 Una aplicación web interactiva construida con **Streamlit** para ayudarte a planificar tus comidas diarias, permitiendo la sustitución inteligente de ingredientes basada en una tabla de equivalencias nutricionales.
 
-<!-- Reemplaza esto con una captura o GIF de tu app -->
+## App en Streamlit Cloud
+Puedes acceder directamente a la app a través del siguiente enlace:
 
----
+[Accede a la app](https://vegan-diet.streamlit.app/)
 
 ## ✨ Características Principales
-
 Esta aplicación se divide en tres módulos principales:
 
 ### 1. 📅 Planificador de Menús
